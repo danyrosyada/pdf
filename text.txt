@@ -1,3 +1,6 @@
 ini coba upload biar tau bisa jalan apa enga ini sudah lgin dany ges kita coba yagesya
 
 ini udah coba config pake ctrl p di visual studio code apakah sudah berubah ?
+
+
+ini udah bisa unset dari github kita lihat siapa yang jadi nama injectnya
